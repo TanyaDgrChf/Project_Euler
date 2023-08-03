@@ -1,4 +1,4 @@
-#This code spits out a correct answer, however the method is very flawed.
+#This code spits out a correct path, but the method for finding the answer is flawed.
 
 
 def crawl(pyramid):
